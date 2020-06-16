@@ -1,0 +1,81 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+html,body{ 
+    height: 100%; 
+    width: 100%; 
+}
+
+/*  Borders */
+.bd-left{
+    border-left: 12px solid white;
+}
+.bd-right{
+    border-right: 12px solid black;
+}
+.bd-bottom{
+    border-bottom: 12px solid black;
+}
+
+/* Backgrounds */
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: darkblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+
+/* Sizes */
+.big-container{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.h-90{
+    height: 90%;
+}
+.h-70{
+    height: 70%;
+}
+.h-60{
+    height: 60%;
+}
+.h-40{
+    height: 40%;
+}
+.h-30{
+    height: 30%; 
+}
+.h-20{
+    height: 20%;
+}
+.h-10{
+    height: 10%;
+}
+
+/* Columns */
+.col1{
+    width: 10%;
+}
+.col2{
+    width: 50%;
+}
+.col3{
+    width: 35%;
+}
+.col4{
+    width: 5%;
+}
+
+
+
